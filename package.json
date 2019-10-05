@@ -1,0 +1,25 @@
+{
+  "name": "suger",
+  "version": "1.0.0",
+  "description": "sth. makes me happy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youkaisteve/suger.git"
+  },
+  "author": "youkaisteve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youkaisteve/suger/issues"
+  },
+  "homepage": "https://github.com/youkaisteve/suger#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "mongodb": "^3.3.2",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
