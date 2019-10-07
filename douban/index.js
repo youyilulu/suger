@@ -116,7 +116,7 @@ parseBook()
 
 // const commentModel = {}
 // const fs = require('fs')
-// const fileText = fs.readFileSync('./test_files/book_comment.html', { encoding: 'utf-8' })
+// const fileText = fs.readFileSync('./test_files/book-comment.html', { encoding: 'utf-8' })
 // const $$ = cheerio.load(fileText)
 // parseHtmlByConfig($$, commentModel, commentConfig)
 // console.log(commentModel)
